@@ -1,5 +1,9 @@
 # LAB TEST \#1
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ttran375/comp228-test1)
+
+[![Style Check](https://github.com/ttran375/comp228-test1/actions/workflows/main.yml/badge.svg)](https://github.com/ttran375/comp228-test1/actions/workflows/main.yml)
+
 **Time allowed: 1 hour 50 minutes**
 
 **General Scenario:**
